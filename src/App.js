@@ -7,17 +7,13 @@ import Comment from './pages/Comment.jsx';
 import ProductList from './pages/ProductList.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Customer from './pages/Customer/Customer';
-import AddCust from './pages/Customer/AddCust';
-import AddProduct from './pages/Categories/AddProduct';
 import Navbars from './components/Navbars';
 import Vegetable from './pages/Categories/Vegetable.jsx';
 import Plants from './pages/Categories/Plants';
 import Seeds from './pages/Categories/Seeds';
 import LedgerManagement from './pages/Ledger Management/LedgerManagement';
 import Category from './pages/Ledger Management/category';
-import AddCategory from './pages/Ledger Management/AddCategory';
 import Subcategory from './pages/Ledger Management/Subcategory';
-import AddSubCategory from './pages/Ledger Management/AddSubCategory copy';
 import Footer from './components/Footer';
 import LoginPage from './components/LoginPage';
 
