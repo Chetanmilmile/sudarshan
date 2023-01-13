@@ -36,16 +36,12 @@ const App = () => {
         <Routes>
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/customer" element={<Customer/>} />
-          <Route path='/addCust' element={<AddCust/>}/>
           <Route path="/comment" element={<Comment />} />
           <Route path="/vegetable" element={<Vegetable />} />
-          <Route path="/addproduct" element={<AddProduct/>} />
           <Route path='/plants' element={<Plants/>}/>
           <Route path='/seeds' element={<Seeds/>}/>
           <Route path='/category' element={<Category/>}/>
-          <Route path='/addsubcategory' element={<AddSubCategory/>}/>
           <Route path='/subcategory' element={<Subcategory/>}/>
-          <Route path='/addcategory' element={<AddCategory/>}/>
           <Route path="/ledgermanagement" element={<LedgerManagement />} />
           <Route path="/productList" element={<ProductList />} />
         </Routes>
