@@ -7,6 +7,7 @@ import Comment from './pages/Comment.jsx';
 import ProductList from './pages/ProductList.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Customer from './pages/Customer/Customer';
+
 import Navbars from './components/Navbars';
 import Vegetable from './pages/Categories/Vegetable.jsx';
 import Plants from './pages/Categories/Plants';
